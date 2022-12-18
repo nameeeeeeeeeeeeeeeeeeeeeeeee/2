@@ -10,5 +10,5 @@
      <h3>3</h3>
      <p>и на конец позвать гостей</p>
      <img src="https://drive.google.com/uc?export=view&id=1tDk1mx_h1ad0mRI19U6uAc-TaunBjWwZ"/>
-     <footer id="#конец" style="background-color:#1E90FF;">приятно провести время</footer>
+     <footer id="конец" style="background-color:#1E90FF;">приятно провести время</footer>
 </html>
